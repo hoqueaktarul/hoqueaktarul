@@ -4,7 +4,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284262-d30c4d7d.gif" width="22%" />
 
 <h1 align="center">Hi 👋, I'm Aktarul Hoque</h1>
-<h3 align="center">🚀 Full-Stack Software Engineer from India</h3>
+<h3 align="center">🚀 Full-Stack Software Engineer</h3>
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=hoqueaktarul&label=Profile%20views&color=0e75b6&style=flat" alt="hoqueaktarul" />
@@ -20,7 +20,7 @@
 - 🌱 Currently exploring **Next.js & DevOps**  
 - 💬 Ask me about **React, React Native, Node.js, Django, AWS**  
 - 📫 Reach me: **hoqueaktarul07@gmail.com**  
-- 📍 Based in **Malda, West Bengal, India**  
+- 📍 Based in **kolkata, West Bengal**  
 
 ---
 
@@ -87,7 +87,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="https://www.linkedin.com/in/aktarul-hoque-7707a5200/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
 <a href="mailto:hoqueaktarul07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
 <a href="https://github.com/hoqueaktarul" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
 </p>

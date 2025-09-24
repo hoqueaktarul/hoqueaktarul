@@ -1,41 +1,98 @@
-# Hi 👋, I'm Aktarul Hoque  
+![Cover Banner](https://i.imgur.com/ZfJErWa.png) <!-- You can replace with your own banner -->
 
-💻 Full Stack Developer | 🚀 MERN | 📱 React Native | ☁️ AWS  
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212284262-d30c4d7d.gif" width="22%" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284262-d30c4d7d.gif" width="22%" />
+
+<h1 align="center">Hi 👋, I'm Aktarul Hoque</h1>
+<h3 align="center">🚀 Full-Stack Software Engineer from India</h3>
+
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=hoqueaktarul&label=Profile%20views&color=0e75b6&style=flat" alt="hoqueaktarul" />
+ <img src="https://img.shields.io/badge/Code-JavaScript | Python | TypeScript | SQL-yellow?style=flat&logo=javascript" />
+ <img src="https://img.shields.io/badge/Tools-React | Node.js | Django | AWS-blue?style=flat&logo=react" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 💼 Software Engineer (**SDE2 at MyPustak.com**)  
+- 🔭 Building **web, mobile, and warehouse automation apps**  
+- 🌱 Currently exploring **Next.js & DevOps**  
+- 💬 Ask me about **React, React Native, Node.js, Django, AWS**  
+- 📫 Reach me: **hoqueaktarul07@gmail.com**  
+- 📍 Based in **Malda, West Bengal, India**  
 
 ---
 
-### 🔥 About Me
-- 🌟 3.5+ years of experience as **Full Stack Developer**  
-- 🔭 Currently working on **FynFettle (Diagnostic Platform)**  
-- 🌱 Learning **Next.js, DevOps & Cloud Solutions**  
-- 💬 Ask me about **Frontend, Backend, Mobile Apps, API Integrations**  
-- 📫 Reach me at: **your-email@example.com**  
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/230715185-8b5f6f19-334e-4f7b-bf86-24d3e8c4e5d0.gif">
+
+### 🛠️ Tech Stack
+**Languages:**  
+![JS](https://skillicons.dev/icons?i=javascript,typescript,python,java,sql)
+
+**Frontend:**  
+![React](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,materialui,html,css)
+
+**Backend:**  
+![Node.js](https://skillicons.dev/icons?i=nodejs,express,django)
+
+**Mobile:**  
+![React Native](https://skillicons.dev/icons?i=react)
+
+**Databases:**  
+![DB](https://skillicons.dev/icons?i=mysql,postgres)
+
+**Cloud/DevOps:**  
+![Cloud](https://skillicons.dev/icons?i=aws,firebase,vercel,docker,nginx)
+
+**Tools:**  
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,postman,figma,vscode,linux)
 
 ---
 
-### 🛠️ Skills & Tools
-- **Frontend:** React.js, Next.js, Redux, Tailwind, MUI, Bootstrap  
-- **Backend:** Node.js, Express.js, Django  
-- **Mobile Apps:** React Native (iOS & Android)  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Cloud & DevOps:** AWS, Docker, Nginx  
-- **Others:** Payment Gateway (Razorpay, Cashfree), Courier APIs (Delhivery, Ekart, Ecom Express, Amazon Shipping)  
+### 🏆 Achievements & Highlights
+- 📚 Built **MyPustak Web & Android Apps** from scratch  
+- 🏭 Developed **Warehouse Management App** (inventory, packing, courier optimization)  
+- 📦 Created **Partner Web & Mobile Apps** for vendors, invoicing & shipment tracking  
+- ⏱ Reduced API response times by optimizing **Django + Node.js services**  
+- 💳 Integrated **Razorpay & Cashfree payment gateways**  
+- 🔎 Implemented **Typesense-powered search API**  
 
 ---
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### 📊 GitHub Stats
-![Aktarul's GitHub stats](https://github-readme-stats.vercel.app/api?username=aktarul-hoque&show_icons=true&theme=radical)  
+<div align="center">
+ 
+![Aktarul's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoqueaktarul&theme=radical&show_icons=true)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=hoqueaktarul&theme=radical)](https://git.io/streak-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoqueaktarul&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aktarul-hoque&layout=compact&theme=radical)  
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aktarul-hoque&theme=radical)](https://git.io/streak-stats)  
+---
+
+### 🏅 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hoqueaktarul&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" />
+</div>
+
+---
+
+### 📈 Activity Graph
+![Aktarul's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hoqueaktarul&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+<a href="mailto:hoqueaktarul07@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+<a href="https://github.com/hoqueaktarul" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" /></a>
+</p>
 
 ---
-⭐ From [aktarul-hoque](https://github.com/aktarul-hoque)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  
+<em><b>I love collaborating with people on exciting projects — drop a hi, let’s connect! 🚀</b></em>

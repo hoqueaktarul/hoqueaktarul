@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" alt="Aktarul Hoque - Full Stack Software Engineer" width="100%">
+  <img src="./Aktarul Hoque Neon Developer Banner.png" alt="Aktarul Hoque - Full Stack Software Engineer" width="100%">
 </p>
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284262-d30c4d7d.gif" width="22%" />
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284262-d30c4d7d.gif" width="22%" />

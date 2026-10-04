@@ -1,5 +1,6 @@
-![Cover Banner](https://i.imgur.com/ZfJErWa.png) <!-- You can replace with your own banner -->
-
+<p align="center">
+  <img src="./github-banner.png" alt="Aktarul Hoque - Full Stack Software Engineer" width="100%">
+</p>
 <img align="left" src="https://user-images.githubusercontent.com/74038190/212284262-d30c4d7d.gif" width="22%" />
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284262-d30c4d7d.gif" width="22%" />
 

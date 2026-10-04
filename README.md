@@ -193,7 +193,13 @@ Building production mobile applications using **React Native** with REST API and
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoqueaktarul&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hoqueaktarul&theme=github-dark&hide_border=true"
+    alt="Aktarul Hoque GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 
 ---
 
